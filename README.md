@@ -1,8 +1,9 @@
-# P-Deck - a hilarious expansion deck for Agricola which adds exciting and wacky gameplay mechanics
+# P-Deck - a hilarious expansion deck for Agricola!
 <img src="/images/agricola-p-deck-1.jpg" width="900" />
 
 ## Description
 P-Deck is an unofficial expansion deck for [Agricola](https://boardgamegeek.com/boardgame/31260/agricola) that slots painlessly alongside the standard E/I/K decks - the look, iconography, and sizing match the real thing. After 16 years of brainstorming half-serious, half-ridiculous gameplay ideas, we've implemented the most entertaining (yet balanced!) and compiled them in P-Deck.
+<img src="/images/agricola-p-deck-2.jpg" width="900" />
 
 ## Features
 - **42 New Occupations**
@@ -14,13 +15,29 @@ P-Deck is an unofficial expansion deck for [Agricola](https://boardgamegeek.com/
 
 ## Examples of New Gameplay Mechanics
 - **Loans & Debts** – Grab resources now with *IOU* or postpone renovation costs via *Under Construction*
+<img src="/images/agricola-p-deck-3.jpg" width="900" />
+
 - **Resource Swaps** – *Beggars Can Be Choosers* converts a single pickup into any other building resource, *Trader* performs 3‑for‑X swaps on demand
-- **Livestock Shenanigans** – *Crossbreeder* allowss you to mix species, *Petting Zoo* and *Puppy Mill* turn rooms and animals into weird breeding grounds
-- **Spatial & Layout Manipulation** – *Wallh4x* turns house walls into fences, *Landscaping* lets you slide farmyard tiles into new positions
-- **Turn‑Order Manipulation** – Snipe the first pick with *Low Ping Bastard*, or flip the whole table with *Mirror Universe*
+<img src="/images/agricola-p-deck-4.jpg" width="900" />
+
+- **Livestock Shenanigans** – *Crossbreeder* allows you to mix species, *Petting Zoo* and *Puppy Mill* turn rooms and animals into weird breeding grounds
+<img src="/images/agricola-p-deck-5.jpg" width="900" />
+
+- **Spatial & Layout Manipulation** – *Wallh4x* turns house walls into fences
+<img src="/images/agricola-p-deck-6.jpg" width="900" />
+
+- **Turn‑Order Manipulation** – Snipe the first pick with *Low Ping Bastard*, or flip the turn order with *Mirror Universe*
+<img src="/images/agricola-p-deck-7.jpg" width="900" />
+
 - **Family‑Growth Variants** – *Bad Parent* houses a child in a stable, *Child Labour* lets newborns work immediately
-- **Offensive Actions** – Kidnap meeples with *Jigsaw*, slap tolls through *The Rent is Too Damn High*, or snipe animals off wood spaces using *Sniper Rifle*
+<img src="/images/agricola-p-deck-8.jpg" width="900" />
+
+- **Offensive Actions** – Inflict tolls through *The Rent is Too Damn High*, or snipe animals off wood spaces using *Sniper Rifle*
+<img src="/images/agricola-p-deck-9.jpg" width="900" />
+
 - **Scoring Manipulation** – *Close Enough* rounds you up to 4 VP when you’re a single resource short, *Betting the Farm* awards 4 VP for hoarding ten grain (or penalties if you whiff), while *Gotta Catch ’Em All* increases the zero‑animal penalty for everyone
+<img src="/images/agricola-p-deck-10.jpg" width="900" />
+
 - and many more!
 
 ## What to Print
