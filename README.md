@@ -24,7 +24,7 @@ P-Deck is an unofficial expansion deck for [Agricola](https://boardgamegeek.com/
 <img src="/images/agricola-p-deck-5.jpg" width="900" />
 
 - **Spatial & Layout Manipulation** – *Wallh4x* turns house walls into fences
-<img src="/images/agricola-p-deck-6.jpg" width="900" />
+<img src="/images/agricola-p-deck-6.jpg" width="300" />
 
 - **Turn‑Order Manipulation** – Snipe the first pick with *Low Ping Bastard*, or flip the turn order with *Mirror Universe*
 <img src="/images/agricola-p-deck-7.jpg" width="900" />
