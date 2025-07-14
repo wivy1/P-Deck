@@ -3,6 +3,7 @@
 
 ## Description
 P-Deck is an unofficial expansion deck for [Agricola](https://boardgamegeek.com/boardgame/31260/agricola) that slots painlessly alongside the standard E/I/K decks - the look, iconography, and sizing match the real thing. After 16 years of brainstorming half-serious, half-ridiculous gameplay ideas, we've implemented the most entertaining (yet balanced!) and compiled them in P-Deck.
+
 <img src="/images/agricola-p-deck-2.jpg" width="900" />
 
 ## Features
@@ -38,7 +39,7 @@ P-Deck is an unofficial expansion deck for [Agricola](https://boardgamegeek.com/
 - **Scoring Manipulation** – *Close Enough* rounds you up to 4 VP when you’re a single resource short, *Betting the Farm* awards 4 VP for hoarding ten grain (or penalties if you whiff), while *Gotta Catch ’Em All* increases the zero‑animal penalty for everyone
 <img src="/images/agricola-p-deck-10.jpg" width="900" />
 
-- and many more!
+- and much more!
 
 ## What to Print
 | File | Contents |
